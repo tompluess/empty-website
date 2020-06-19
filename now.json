@@ -1,0 +1,11 @@
+{
+  "github": {
+    "silent": true
+  },
+  "env": {
+    "GITHUB_CLIENT_ID": "@tompluess_github_client_id",
+    "GITHUB_CLIENT_SECRET": "@tompluess_github_client_secret",
+    "JWT_SECRET": "@tompluess_jwt_secret",
+    "ORIGIN": "https://empty-website.now.sh"
+  }
+}
